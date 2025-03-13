@@ -1,0 +1,233 @@
+{
+  "offset": 0,
+  "limit": 25,
+  "count": 25,
+  "totalCount": 69,
+  "data": [
+    {
+      "type": "WIRED",
+      "id": "2e44fa4a-7678-3f3c-9c5c-f6c0d70b35e8",
+      "name": "bigmac",
+      "connectedAt": "2025-01-10T08:30:02Z",
+      "ipAddress": "192.168.3.2",
+      "macAddress": "38:f9:d3:0c:64:98",
+      "uplinkDeviceId": "8e374e60-a6a6-3128-a847-59d9639ec218"
+    },
+    {
+      "type": "WIRED",
+      "id": "131148c3-3f27-33ae-8bd8-1074415c59f8",
+      "name": "AppleTV Office",
+      "connectedAt": "2025-01-10T08:30:02Z",
+      "ipAddress": "192.168.3.24",
+      "macAddress": "dc:56:e7:54:6b:ea",
+      "uplinkDeviceId": "8e374e60-a6a6-3128-a847-59d9639ec218"
+    },
+    {
+      "type": "WIRED",
+      "id": "a281194b-ea89-33ca-8b92-93d4c5374c31",
+      "name": "TabloTV",
+      "connectedAt": "2025-01-10T08:30:02Z",
+      "ipAddress": "192.168.3.119",
+      "macAddress": "50:87:b8:20:f4:ef",
+      "uplinkDeviceId": "8e374e60-a6a6-3128-a847-59d9639ec218"
+    },
+    {
+      "type": "WIRED",
+      "id": "7335ddd4-6941-3d7e-ad3e-173ee381bcaa",
+      "name": "AppleTV GuestRoom",
+      "connectedAt": "2025-01-10T08:30:02Z",
+      "ipAddress": "192.168.3.43",
+      "macAddress": "ec:a9:07:0e:c1:e6",
+      "uplinkDeviceId": "8e374e60-a6a6-3128-a847-59d9639ec218"
+    },
+    {
+      "type": "WIRELESS",
+      "id": "a4f71d48-6af6-3c98-9fdf-0b5a99bbd87c",
+      "name": "SonosOffice",
+      "connectedAt": "2025-01-10T08:30:17Z",
+      "ipAddress": "192.168.3.90",
+      "macAddress": "48:a6:b8:83:80:ac",
+      "uplinkDeviceId": "9ac11e67-03ae-3d9a-8309-8cc45506f666"
+    },
+    {
+      "type": "WIRELESS",
+      "id": "4f303065-0957-3efb-8089-a3148d292d55",
+      "name": "Kristi Sonos",
+      "connectedAt": "2025-01-10T08:30:17Z",
+      "ipAddress": "192.168.3.91",
+      "macAddress": "48:a6:b8:86:8e:0e",
+      "uplinkDeviceId": "9ac11e67-03ae-3d9a-8309-8cc45506f666"
+    },
+    {
+      "type": "WIRELESS",
+      "id": "6b51e02c-68fc-39ff-9658-8f9c1d5d066f",
+      "name": "1505 Sonos PoolTV",
+      "connectedAt": "2025-01-10T08:30:19Z",
+      "ipAddress": "192.168.3.81",
+      "macAddress": "38:42:0b:f1:66:cc",
+      "uplinkDeviceId": "9ac11e67-03ae-3d9a-8309-8cc45506f666"
+    },
+    {
+      "type": "WIRELESS",
+      "id": "84c676f8-ae32-3f7f-85ee-927058caacc0",
+      "name": "1505 MB Sonos Beam",
+      "connectedAt": "2025-01-10T08:30:19Z",
+      "ipAddress": "192.168.3.8",
+      "macAddress": "38:42:0b:f9:1f:ba",
+      "uplinkDeviceId": "9ac11e67-03ae-3d9a-8309-8cc45506f666"
+    },
+    {
+      "type": "WIRED",
+      "id": "b03fdba6-f5f0-3d47-bb56-980e1f2356e1",
+      "name": "AppleTV MasterBed Room",
+      "connectedAt": "2025-01-10T08:30:21Z",
+      "ipAddress": "192.168.3.19",
+      "macAddress": "50:de:06:71:31:68",
+      "uplinkDeviceId": "8e374e60-a6a6-3128-a847-59d9639ec218"
+    },
+    {
+      "type": "WIRED",
+      "id": "69caa700-e98f-31ba-a024-7c193845edb8",
+      "name": "AppleTV Entertainment Room",
+      "connectedAt": "2025-01-10T08:30:22Z",
+      "ipAddress": "192.168.3.42",
+      "macAddress": "d0:d2:b0:a7:7c:4f",
+      "uplinkDeviceId": "8e374e60-a6a6-3128-a847-59d9639ec218"
+    },
+    {
+      "type": "WIRED",
+      "id": "b55d9df9-2c36-3ca5-b516-2bc2a1725ccf",
+      "name": "1505 Sonos SoundBar",
+      "connectedAt": "2025-01-10T08:30:22Z",
+      "ipAddress": "192.168.3.78",
+      "macAddress": "48:a6:b8:0a:37:25",
+      "uplinkDeviceId": "8e374e60-a6a6-3128-a847-59d9639ec218"
+    },
+    {
+      "type": "WIRED",
+      "id": "30b3301a-c28c-37b8-a442-ca0bdcf9cc54",
+      "name": "Smartthings Hub",
+      "connectedAt": "2025-01-31T00:24:33Z",
+      "ipAddress": "192.168.3.68",
+      "macAddress": "28:6d:97:9e:fb:5c",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "4686bf5e-867a-3c03-b1e0-3270060fd996",
+      "name": "1505 Sonos Subwoofer",
+      "connectedAt": "2025-02-05T07:09:18Z",
+      "ipAddress": "192.168.3.79",
+      "macAddress": "54:2a:1b:1d:94:cc",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "fc9adc89-e3cf-32a6-8b9a-35ceaf89e45f",
+      "name": "1505 Sonos Pool",
+      "connectedAt": "2025-02-05T15:15:43Z",
+      "ipAddress": "192.168.3.77",
+      "macAddress": "48:a6:b8:65:4a:6b",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "8593ca2a-7bed-3fa6-93b2-420f14c648b4",
+      "name": "1505Sonos TV Rear",
+      "connectedAt": "2025-02-05T15:38:26Z",
+      "ipAddress": "192.168.3.80",
+      "macAddress": "f0:f6:c1:9f:33:c9",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "69f3662a-c103-3035-a75c-ef34856b1a1e",
+      "name": "OBi200",
+      "connectedAt": "2025-02-05T15:49:01Z",
+      "ipAddress": "192.168.3.67",
+      "macAddress": "9c:ad:ef:63:c8:1b",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "e586db48-f818-3adf-9c68-b132dfbf98b4",
+      "name": "1505 Sonos Kitchen",
+      "connectedAt": "2025-02-10T19:01:57Z",
+      "ipAddress": "192.168.3.75",
+      "macAddress": "38:42:0b:21:e7:a7",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "e72e9a2e-8ac4-38d4-aa99-b6fafb3f8592",
+      "name": "macdaddy",
+      "connectedAt": "2025-02-20T19:31:27Z",
+      "ipAddress": "192.168.5.39",
+      "macAddress": "f0:18:98:e8:5c:59",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "1560f4a3-4842-3d6a-9283-923b14ccd086",
+      "name": "Camera Kitchen",
+      "connectedAt": "2025-02-20T20:00:01Z",
+      "ipAddress": "192.168.5.98",
+      "macAddress": "9c:8e:cd:34:6e:17",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "2eca69a8-0a10-3c53-abef-366d645942d3",
+      "name": "Camera 1505 Garage",
+      "connectedAt": "2025-02-20T20:14:52Z",
+      "ipAddress": "192.168.5.100",
+      "macAddress": "9c:8e:cd:1f:27:84",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "33eb2e82-ea40-3683-b670-e8c8635275ae",
+      "name": "Camera 1505 Big Front",
+      "connectedAt": "2025-02-20T20:24:46Z",
+      "ipAddress": "192.168.5.96",
+      "macAddress": "9c:8e:cd:1c:79:9b",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "c30375f3-c721-3dbf-8e9f-28bafe637ac1",
+      "name": "Camera 1505 Backyard",
+      "connectedAt": "2025-02-20T20:29:29Z",
+      "ipAddress": "192.168.5.102",
+      "macAddress": "9c:8e:cd:31:81:16",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "81dbdf88-6f1d-3cbb-b9f9-ecec9c72142d",
+      "name": "Camera 1505 Pool Heater Side",
+      "connectedAt": "2025-02-20T20:32:59Z",
+      "ipAddress": "192.168.5.123",
+      "macAddress": "9c:8e:cd:31:38:a3",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "ba859fc5-0087-32a6-8c0d-1fc48d6873a4",
+      "name": "Camera 1505 FrontDoor",
+      "connectedAt": "2025-02-20T20:44:16Z",
+      "ipAddress": "192.168.5.247",
+      "macAddress": "a0:60:32:05:49:7d",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    },
+    {
+      "type": "WIRED",
+      "id": "22d864b3-49bd-3769-8d38-3519d34afd82",
+      "name": "Camera 1505 Bill side",
+      "connectedAt": "2025-02-20T20:57:28Z",
+      "ipAddress": "192.168.5.176",
+      "macAddress": "a0:60:32:03:34:21",
+      "uplinkDeviceId": "28a5bfd6-318a-387c-9c22-b374021e3977"
+    }
+  ]
+}

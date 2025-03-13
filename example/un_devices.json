@@ -1,0 +1,92 @@
+{
+  "offset": 0,
+  "limit": 25,
+  "count": 6,
+  "totalCount": 6,
+  "data": [
+    {
+      "id": "8e374e60-a6a6-3128-a847-59d9639ec218",
+      "name": "1505 UDM Pro",
+      "model": "UDM Pro",
+      "macAddress": "60:22:32:a3:72:9b",
+      "ipAddress": "192.168.2.226",
+      "state": "ONLINE",
+      "features": [
+        "switching"
+      ],
+      "interfaces": [
+        "ports"
+      ]
+    },
+    {
+      "id": "282804fd-5046-3910-a034-5815cdfeb29c",
+      "name": "1505 AP - Server Closet",
+      "model": "U6 Pro",
+      "macAddress": "ac:8b:a9:4f:72:fd",
+      "ipAddress": "192.168.3.250",
+      "state": "ONLINE",
+      "features": [
+        "accessPoint"
+      ],
+      "interfaces": [
+        "radios"
+      ]
+    },
+    {
+      "id": "8532bac6-421c-33df-82af-39258eaad03c",
+      "name": "1505 AP - Guest Room",
+      "model": "U6 Pro",
+      "macAddress": "ac:8b:a9:4e:09:95",
+      "ipAddress": "192.168.3.155",
+      "state": "ONLINE",
+      "features": [
+        "accessPoint"
+      ],
+      "interfaces": [
+        "radios"
+      ]
+    },
+    {
+      "id": "c160a347-00b5-3eed-9758-d595474ca262",
+      "name": "1505 AP - Master Bedroom",
+      "model": "U6 Pro",
+      "macAddress": "ac:8b:a9:4f:ee:9d",
+      "ipAddress": "192.168.3.101",
+      "state": "ONLINE",
+      "features": [
+        "accessPoint"
+      ],
+      "interfaces": [
+        "radios"
+      ]
+    },
+    {
+      "id": "28a5bfd6-318a-387c-9c22-b374021e3977",
+      "name": "1505 Switch Professional 24 PoE",
+      "model": "USW Pro 24 PoE",
+      "macAddress": "e4:38:83:83:ad:a9",
+      "ipAddress": "192.168.3.108",
+      "state": "ONLINE",
+      "features": [
+        "switching"
+      ],
+      "interfaces": [
+        "ports"
+      ]
+    },
+    {
+      "id": "20a9f909-e78e-3995-8918-888bae783ede",
+      "name": "1505 AP Lanai",
+      "model": "U6 Pro",
+      "macAddress": "e4:38:83:85:ee:fd",
+      "ipAddress": "192.168.3.115",
+      "state": "ONLINE",
+      "features": [
+        "accessPoint"
+      ],
+      "interfaces": [
+        "radios"
+      ]
+    }
+  ]
+}
