@@ -16,6 +16,8 @@ github.com/seldonsmule/restapi v0.0.0-20250313203008-8333410f2e91 h1:gkXhPVcGQ0C
 github.com/seldonsmule/restapi v0.0.0-20250313203008-8333410f2e91/go.mod h1:2ZWfkhIBj9GZrcrxTIMcW0FtOcDAQGk1Z0Ljxqd6XF8=
 github.com/seldonsmule/simpleconffile v0.0.0-20241003160840-933aea6db380 h1:m/JwOTKx7x+8t+2d+aw74fMfNTX2w9brk1p00buPn/c=
 github.com/seldonsmule/simpleconffile v0.0.0-20241003160840-933aea6db380/go.mod h1:X2One8zemZjou6xfXbWFy6KNRjAEYaskBGPgl5KMtyE=
+github.com/seldonsmule/unifi v0.0.0-20250313215025-18f01f797c44 h1:jtMHqvd06Elj5UDR0pUkIYMn/7uiJcIf9b1EVbUlZ20=
+github.com/seldonsmule/unifi v0.0.0-20250313215025-18f01f797c44/go.mod h1:cdRdg6Cc9W0jfJ8iBYrA87jYq0W5uzwsMUzpVrG1w6o=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0 h1:TivCn/peBQ7UY8ooIcPgZFpTNSz0Q2U6UrFlUfqbe0Q=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=

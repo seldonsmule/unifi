@@ -1,13 +1,11 @@
 module github.com/seldonsmule/unifi/unifi_print
 
-replace github.com/seldonsmule/unifi => /Users/rxe789/egc_NetworkDrive/dev/gocode/src/github.com/seldonsmule/unifi
-
 go 1.23.2
 
 require (
 	github.com/seldonsmule/logmsg v0.0.0-20241003160416-31459cf370a7
 	github.com/seldonsmule/simpleconffile v0.0.0-20241003160840-933aea6db380
-	github.com/seldonsmule/unifi v0.0.0-00010101000000-000000000000
+	github.com/seldonsmule/unifi v0.0.0-20250313215025-18f01f797c44
 )
 
 require (

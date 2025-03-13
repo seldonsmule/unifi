@@ -72,7 +72,11 @@ func help(){
   fmt.Println("      readconf - Display Conf file info")
   fmt.Println("      listsiteids - List all the site IDs for the host URL")
   fmt.Println("      listdevices - List all the Uniquit devices (using siteid)")
+  fmt.Println("        -csv Causes output to have a CSV format")
+  fmt.Println("        -etchosts Causes output to be ready to cut/paste into /etc/hosts")
   fmt.Println("      listclients - List all the clients (using siteid)")
+  fmt.Println("        -csv Causes output to have a CSV format")
+  fmt.Println("        -etchosts Causes output to be ready to cut/paste into /etc/hosts")
 
 
 
@@ -94,7 +98,7 @@ func main(){
 
   //fmt.Printf("cmd=%s\n", *cmdPtr)
 
-  logmsg.SetLogFile("example.log");
+  logmsg.SetLogFile("unifi_print.log");
 
   logmsg.Print(logmsg.Info, "cmdPtr = ", *cmdPtr)
   logmsg.Print(logmsg.Info, "apikeyPtr = ", *apikeyPtr)
